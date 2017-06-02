@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Net.Sockets;
 using System.Net;
-using System;
-using System;
 namespace Ntrip
 {
     public interface IClient
