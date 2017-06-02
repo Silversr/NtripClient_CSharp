@@ -1,0 +1,5 @@
+C:\CSharp_NtripClient\NtripClient_CSharp\NtripClient\bin\Debug\NtripClient.dll
+C:\CSharp_NtripClient\NtripClient_CSharp\NtripClient\bin\Debug\NtripClient.pdb
+C:\CSharp_NtripClient\NtripClient_CSharp\NtripClient\obj\Debug\NtripClient.csprojResolveAssemblyReference.cache
+C:\CSharp_NtripClient\NtripClient_CSharp\NtripClient\obj\Debug\NtripClient.dll
+C:\CSharp_NtripClient\NtripClient_CSharp\NtripClient\obj\Debug\NtripClient.pdb
